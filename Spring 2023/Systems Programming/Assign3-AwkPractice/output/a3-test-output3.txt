@@ -1,0 +1,31 @@
+Total calls = 31
+
+Date: 2023-03-18
+       First call: SAPD-2023-0378022,"2023-03-18 21:33:09",Forgery,"4500 SCHERTZ RD",NORTH
+        Last call: SAPD-2023-0378114,"2023-03-18 22:00:20","Burglary Vehicle","6000 W COMMERCE ST",WEST
+
+Per-problem totals:
+        Theft: 1
+        "Traffic Related": 1
+        "Assist the Public": 1
+        "Disturbance Family": 3
+        "Suspicious Person": 3
+        "Theft of Vehicle": 1
+        "Burglary in Progress": 1
+        Fire: 1
+        "Welfare Check": 3
+        "Burglary Vehicle": 3
+        Disturbance: 3
+        Forgery: 2
+        "Disturbance Loud Music": 4
+        Threats: 1
+        "Animal Related": 1
+        Information: 2
+
+Per-division totals:
+        PRUE: 3
+        EAST: 3
+        SOUTH: 5
+        WEST: 12
+        NORTH: 5
+        CENTRAL: 3

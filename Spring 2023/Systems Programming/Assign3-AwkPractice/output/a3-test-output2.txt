@@ -1,0 +1,29 @@
+Total calls = 24
+
+Date: 2023-03-17
+       First call: SAPD-2023-0371443,"2023-03-17 12:52:07","Patrol By","900 RIGSBY",EAST
+        Last call: SAPD-2023-0371510,"2023-03-17 13:09:52","Criminal Mischief","1200 FLORIDA",EAST
+
+Per-problem totals:
+        Theft: 1
+        "Disturbance Family": 1
+        "Traffic Related": 1
+        "Assist the Public": 2
+        "Suspicious Person": 1
+        "Patrol By": 3
+        "Traffic Violation": 1
+        "Burglary Vehicle": 2
+        "Welfare Check": 2
+        Disturbance: 5
+        Threats: 1
+        "Criminal Mischief": 1
+        "SAPD Non-Emergency Call": 1
+        Information: 2
+
+Per-division totals:
+        PRUE: 3
+        EAST: 2
+        SOUTH: 2
+        WEST: 7
+        NORTH: 5
+        CENTRAL: 5

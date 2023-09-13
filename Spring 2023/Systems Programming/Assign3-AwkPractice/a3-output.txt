@@ -1,0 +1,78 @@
+Total calls = 1822
+
+Date: 2023-03-18
+       First call: SAPD-2023-0374231,"2023-03-18 00:00:03","Disturbance Family","900 ELDORADO ST",SOUTH
+        Last call: SAPD-2023-0378595,"2023-03-18 23:58:36","Disturbance Loud Music","2200 VANCE JACKSON",CENTRAL
+
+Per-problem totals:
+        "Burglary Vehicle In Progress": 1
+        "Officer Traffic Stop": 8
+        "Missing Person/Runaway": 20
+        "High Water": 2
+        "Assist the Public": 53
+        Fight: 13
+        "Suspicious Person": 88
+        "Lewd Conduct": 5
+        Panhandler: 7
+        "Traffic Related": 111
+        "Liquor Law Violation": 4
+        "Holdup Alarm In Progress": 10
+        DOA: 11
+        Prowler: 6
+        "Cutting In Progress": 2
+        Burglary: 33
+        "Recovered Stolen Property": 17
+        "Disturbance Neighbor": 17
+        "Abandoned Vehicle": 26
+        "Wanted Person": 7
+        "Theft of Vehicle": 58
+        "Ordinance Violation": 8
+        Information: 30
+        Threats: 20
+        "Wrong Way Driver": 4
+        "Criminal Mischief In Progress": 8
+        "Shoplifting In Progress": 6
+        "Theft of Vehicle In Progress": 3
+        Fire: 8
+        Theft: 72
+        Shoplifting: 5
+        DWI: 11
+        "Burglary Vehicle": 65
+        "Welfare Check": 82
+        "Disturbance Loud Music": 73
+        "Animal Related": 30
+        "SAPD Emergency Call": 18
+        "Patrol By": 141
+        "Property Found": 9
+        "Property Lost": 5
+        "Missing Person - Endangered": 4
+        "Disturbance Barking Dog": 2
+        "Traffic Violation": 18
+        "Theft In Progress": 16
+        "Burglary in Progress": 19
+        "Violation of Protective Order": 6
+        "Criminal Mischief": 26
+        "Officer In Trouble In Progress": 1
+        "Disturbance Family": 77
+        "Narcotic Laws": 7
+        Miscellaneous: 54
+        "SAPD Non-Emergency Call": 6
+        "Injured/Sick Person": 12
+        Disturbance: 362
+        Drunk: 5
+        "Robbery of Individual": 6
+        "Visitation Violation": 25
+        "Robbery In Progress": 1
+        "Suspicious Vehicle": 64
+        Forgery: 14
+
+Per-division totals:
+        PRUE: 291
+        EAST: 264
+        SOUTH: 327
+        "SAPD OUTSIDE AREA": 8
+        WEST: 312
+        NORTH: 261
+        CENTRAL: 337
+        ROP: 1
+        AIRPORT: 21
