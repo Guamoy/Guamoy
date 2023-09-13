@@ -1,0 +1,26 @@
+Total calls = 19
+
+Date: 2023-03-19
+       First call: SAPD-2023-0381029,"2023-03-19 16:23:33",Disturbance,"11900 PERRIN BEITEL",NORTH
+        Last call: SAPD-2023-0381069,"2023-03-19 16:38:02","Welfare Check","13000 VISTA DEL NORTE",PRUE
+
+Per-problem totals:
+        Theft: 1
+        "Assist the Public": 1
+        "Traffic Related": 2
+        "Ordinance Violation": 1
+        "Shoplifting In Progress": 1
+        "Burglary Vehicle": 1
+        Disturbance: 5
+        "Welfare Check": 3
+        Threats: 1
+        "Criminal Mischief": 1
+        "Animal Related": 1
+        Information: 1
+
+Per-division totals:
+        PRUE: 6
+        SOUTH: 5
+        WEST: 1
+        NORTH: 3
+        CENTRAL: 4
