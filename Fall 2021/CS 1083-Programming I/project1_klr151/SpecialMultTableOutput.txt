@@ -1,0 +1,19 @@
+UTSA - FALL2021 - CS1083 - Section 2 - Prj 1 - Written by Georgy Vinogradov - klr151
+
+-Special Multiplication Table -
+
+Value	Result
+10	-> Skipped - 30 <-
+14	42
+18	54
+22	66
+26	78
+30	-> Skipped - 90 <-
+34	102
+38	114
+42	126
+46	138
+50	-> Skipped - 150 <-
+54	162
+
+Thank you for using this software, Georgy Vinogradov.

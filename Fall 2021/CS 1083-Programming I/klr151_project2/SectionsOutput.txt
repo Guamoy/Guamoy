@@ -1,0 +1,268 @@
+UTSA - Fall2021 - CS1083 - Section 002 - Project 2 - Written by Georgy Vinogradov
+Please, enter the class size : 
+10
+MAIN MENU
+ 0 – Exit, 1 – List, 2 – Report, 3 – Add/Modify Grade, 4 – Swap Grades
+Select an option : 
+3
+Enter the index (0 to 9)
+5
+The current value of the grade in index 5 is : 0.0
+Enter the grade you want to assign (0.00 - 100.00) : 
+87.82
+MAIN MENU
+ 0 – Exit, 1 – List, 2 – Report, 3 – Add/Modify Grade, 4 – Swap Grades
+Select an option : 
+3
+Enter the index (0 to 9)
+2
+The current value of the grade in index 2 is : 0.0
+Enter the grade you want to assign (0.00 - 100.00) : 
+78.45
+MAIN MENU
+ 0 – Exit, 1 – List, 2 – Report, 3 – Add/Modify Grade, 4 – Swap Grades
+Select an option : 
+5
+Value out of range, please, try again
+MAIN MENU
+ 0 – Exit, 1 – List, 2 – Report, 3 – Add/Modify Grade, 4 – Swap Grades
+Select an option : 
+-1
+Value out of range, please, try again
+MAIN MENU
+ 0 – Exit, 1 – List, 2 – Report, 3 – Add/Modify Grade, 4 – Swap Grades
+Select an option : 
+1
+LIST OF GRADES
+Grade[0] : 0.0
+Grade[1] : 0.0
+Grade[2] : 78.45
+Grade[3] : 0.0
+Grade[4] : 0.0
+Grade[5] : 87.82
+Grade[6] : 0.0
+Grade[7] : 0.0
+Grade[8] : 0.0
+Grade[9] : 0.0
+MAIN MENU
+ 0 – Exit, 1 – List, 2 – Report, 3 – Add/Modify Grade, 4 – Swap Grades
+Select an option : 
+3
+Enter the index (0 to 9)
+0
+The current value of the grade in index 0 is : 0.0
+Enter the grade you want to assign (0.00 - 100.00) : 
+45.89
+MAIN MENU
+ 0 – Exit, 1 – List, 2 – Report, 3 – Add/Modify Grade, 4 – Swap Grades
+Select an option : 
+3
+Enter the index (0 to 9)
+1
+The current value of the grade in index 1 is : 0.0
+Enter the grade you want to assign (0.00 - 100.00) : 
+95.35
+MAIN MENU
+ 0 – Exit, 1 – List, 2 – Report, 3 – Add/Modify Grade, 4 – Swap Grades
+Select an option : 
+3
+Enter the index (0 to 9)
+15
+Value out of range, please try again.
+2
+The current value of the grade in index 2 is : 78.45
+Enter the grade you want to assign (0.00 - 100.00) : 
+200.5
+Value out of range, please try again.
+100
+MAIN MENU
+ 0 – Exit, 1 – List, 2 – Report, 3 – Add/Modify Grade, 4 – Swap Grades
+Select an option : 
+3
+Enter the index (0 to 9)
+3
+The current value of the grade in index 3 is : 0.0
+Enter the grade you want to assign (0.00 - 100.00) : 
+65.4
+MAIN MENU
+ 0 – Exit, 1 – List, 2 – Report, 3 – Add/Modify Grade, 4 – Swap Grades
+Select an option : 
+1
+LIST OF GRADES
+Grade[0] : 45.89
+Grade[1] : 95.35
+Grade[2] : 100.0
+Grade[3] : 65.4
+Grade[4] : 0.0
+Grade[5] : 87.82
+Grade[6] : 0.0
+Grade[7] : 0.0
+Grade[8] : 0.0
+Grade[9] : 0.0
+MAIN MENU
+ 0 – Exit, 1 – List, 2 – Report, 3 – Add/Modify Grade, 4 – Swap Grades
+Select an option : 
+3
+Enter the index (0 to 9)
+9
+The current value of the grade in index 9 is : 0.0
+Enter the grade you want to assign (0.00 - 100.00) : 
+78.65
+MAIN MENU
+ 0 – Exit, 1 – List, 2 – Report, 3 – Add/Modify Grade, 4 – Swap Grades
+Select an option : 
+3
+Enter the index (0 to 9)
+8
+The current value of the grade in index 8 is : 0.0
+Enter the grade you want to assign (0.00 - 100.00) : 
+88.8
+MAIN MENU
+ 0 – Exit, 1 – List, 2 – Report, 3 – Add/Modify Grade, 4 – Swap Grades
+Select an option : 
+3
+Enter the index (0 to 9)
+6
+The current value of the grade in index 6 is : 0.0
+Enter the grade you want to assign (0.00 - 100.00) : 
+66.66
+MAIN MENU
+ 0 – Exit, 1 – List, 2 – Report, 3 – Add/Modify Grade, 4 – Swap Grades
+Select an option : 
+3
+Enter the index (0 to 9)
+77
+Value out of range, please try again.
+7
+The current value of the grade in index 7 is : 0.0
+Enter the grade you want to assign (0.00 - 100.00) : 
+77.77
+MAIN MENU
+ 0 – Exit, 1 – List, 2 – Report, 3 – Add/Modify Grade, 4 – Swap Grades
+Select an option : 
+1
+LIST OF GRADES
+Grade[0] : 45.89
+Grade[1] : 95.35
+Grade[2] : 100.0
+Grade[3] : 65.4
+Grade[4] : 0.0
+Grade[5] : 87.82
+Grade[6] : 66.66
+Grade[7] : 77.77
+Grade[8] : 88.8
+Grade[9] : 78.65
+MAIN MENU
+ 0 – Exit, 1 – List, 2 – Report, 3 – Add/Modify Grade, 4 – Swap Grades
+Select an option : 
+3
+Enter the index (0 to 9)
+4
+The current value of the grade in index 4 is : 0.0
+Enter the grade you want to assign (0.00 - 100.00) : 
+48.89
+MAIN MENU
+ 0 – Exit, 1 – List, 2 – Report, 3 – Add/Modify Grade, 4 – Swap Grades
+Select an option : 
+1
+LIST OF GRADES
+Grade[0] : 45.89
+Grade[1] : 95.35
+Grade[2] : 100.0
+Grade[3] : 65.4
+Grade[4] : 48.89
+Grade[5] : 87.82
+Grade[6] : 66.66
+Grade[7] : 77.77
+Grade[8] : 88.8
+Grade[9] : 78.65
+MAIN MENU
+ 0 – Exit, 1 – List, 2 – Report, 3 – Add/Modify Grade, 4 – Swap Grades
+Select an option : 
+4
+Enter the index from (0 to 9)
+99
+Value out of range, please try again.
+9
+Enter the index to (0 to 9) that is not 9 :
+1000
+Value out of range, please try again.
+100
+Value out of range, please try again.
+9
+Value out of range, please try again.
+0
+MAIN MENU
+ 0 – Exit, 1 – List, 2 – Report, 3 – Add/Modify Grade, 4 – Swap Grades
+Select an option : 
+1
+LIST OF GRADES
+Grade[0] : 78.65
+Grade[1] : 95.35
+Grade[2] : 100.0
+Grade[3] : 65.4
+Grade[4] : 48.89
+Grade[5] : 87.82
+Grade[6] : 66.66
+Grade[7] : 77.77
+Grade[8] : 88.8
+Grade[9] : 45.89
+MAIN MENU
+ 0 – Exit, 1 – List, 2 – Report, 3 – Add/Modify Grade, 4 – Swap Grades
+Select an option : 
+2
+GRADES REPORT
+F : 2
+D : 2
+C : 2
+B : 2
+A : 2
+MAIN MENU
+ 0 – Exit, 1 – List, 2 – Report, 3 – Add/Modify Grade, 4 – Swap Grades
+Select an option : 
+3
+Enter the index (0 to 9)
+1
+The current value of the grade in index 1 is : 95.35
+Enter the grade you want to assign (0.00 - 100.00) : 
+59.99
+MAIN MENU
+ 0 – Exit, 1 – List, 2 – Report, 3 – Add/Modify Grade, 4 – Swap Grades
+Select an option : 
+4
+Enter the index from (0 to 9)
+0
+Enter the index to (0 to 9) that is not 0 :
+0
+Value out of range, please try again.
+6
+MAIN MENU
+ 0 – Exit, 1 – List, 2 – Report, 3 – Add/Modify Grade, 4 – Swap Grades
+Select an option : 
+1
+LIST OF GRADES
+Grade[0] : 66.66
+Grade[1] : 59.99
+Grade[2] : 100.0
+Grade[3] : 65.4
+Grade[4] : 48.89
+Grade[5] : 87.82
+Grade[6] : 78.65
+Grade[7] : 77.77
+Grade[8] : 88.8
+Grade[9] : 45.89
+MAIN MENU
+ 0 – Exit, 1 – List, 2 – Report, 3 – Add/Modify Grade, 4 – Swap Grades
+Select an option : 
+2
+GRADES REPORT
+F : 3
+D : 2
+C : 2
+B : 2
+A : 1
+MAIN MENU
+ 0 – Exit, 1 – List, 2 – Report, 3 – Add/Modify Grade, 4 – Swap Grades
+Select an option : 
+0
+Thank you for using this program
