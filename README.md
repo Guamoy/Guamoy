@@ -1,5 +1,8 @@
-This Repository will contain various projects I completed during my time 
+This Repository contains various projects I completed during my time 
 at UTSA. The projects are sorted by the semester they were completed in. 
 
-To test the code, download the specific project folder and either run it 
-in eclipse (for java), or run the make command specific to the project.
+This serves more as an archive for code I've written and every program shown
+has compiled and been ran before being submitted. However I have not adapted the code
+to be cloned and run hassle-free from github. To test the code, clone the 
+specific project folder and run it with gcc or eclipse depending on the language.
+
